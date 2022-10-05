@@ -200,6 +200,10 @@ main>picture {
         left: 20%;
     }
 
+    .translate-box {
+        top: 20%;
+    }
+
     .container {
         padding: 7rem 0 8rem;
         height: 70vh;
@@ -207,6 +211,13 @@ main>picture {
 
     section {
         width: 86%;
+    }
+
+    main>picture {
+        visibility: visible;
+        scale: 0.5;
+        top: 22%;
+        left: 18%;
     }
 
     .show-content {
